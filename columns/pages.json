@@ -1,0 +1,34 @@
+[
+ {
+  "title": "병원보험",
+  "slug": "hospital-insurance"
+ },
+ {
+  "title": "한의원화재보험",
+  "slug": "oriental-clinic-fire"
+ },
+ {
+  "title": "치과화재보험",
+  "slug": "dental-clinic-fire"
+ },
+ {
+  "title": "요양병원보험",
+  "slug": "nursing-hospital"
+ },
+ {
+  "title": "병원배상책임보험",
+  "slug": "hospital-liability"
+ },
+ {
+  "title": "의사배상책임보험",
+  "slug": "doctor-liability"
+ },
+ {
+  "title": "병원화재보험",
+  "slug": "hospital-fire"
+ },
+ {
+  "title": "병원책임보험",
+  "slug": "hospital-responsibility"
+ }
+]

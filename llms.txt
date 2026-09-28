@@ -1,0 +1,77 @@
+# 양심보험연구소 병원화재보험 (hospital.yangsimlab.com)
+
+> 양심보험연구소는 22년 경력의 화재보험 전문가 노영규가 운영하는 보험 상담 사이트로, 병원·의원·요양병원을 위한 화재보험, 병원 배상책임보험, 의사 배상책임보험의 설계와 계약 후 관리, 사고 보상 지원을 제공합니다. 상담과 증권 검토는 비용 없이 진행하며, 보험료는 진료과·건물 구조와 면적·의료장비 가입금액·병상 유무·배상 한도에 따라 개별 산정합니다. (2026년 9월 기준)
+
+## 전문가
+- [화재보험 전문가 노영규](https://hospital.yangsimlab.com/about/): 손해보험 22년, 설계사 등록번호 20050776010016, 지에이코리아(주) 소속, 저서 『매출이 오르는 가게는 보험부터 다르다』, 월간 창업&프랜차이즈·THE E-STATION 칼럼 연재
+
+## 주요 페이지
+- [병원화재보험 홈](https://hospital.yangsimlab.com/): 병원 맞춤 화재보험 설계, 상담 절차, 체크리스트, FAQ
+- [병원화재보험 칼럼](https://hospital.yangsimlab.com/columns/): 키워드별 전문가 칼럼 모음
+- [지역별 병원화재보험](https://hospital.yangsimlab.com/region/): 서울 25개 구와 수도권 대도시별 의료 환경과 화재 위험 안내
+
+## 칼럼
+- [병원보험](https://hospital.yangsimlab.com/columns/hospital-insurance/): 병원보험, 한 가지 상품이 아니라 화재·재산, 시설 배상, 의료과오 배상, 휴진 손실, 직원 관련 위험을 묶는 조합입니다. 우리 병원 빈칸을 점검해 보세요.
+- [한의원화재보험](https://hospital.yangsimlab.com/columns/oriental-clinic-fire/): 한의원화재보험, 뜸·온열기·적외선 치료기·약재 보관·탕전실 같은 한의원 특유의 화재 원인과 상가 임차 구조에서 볼 점을 표로 정리했습니다.
+- [치과화재보험](https://hospital.yangsimlab.com/columns/dental-clinic-fire/): 치과화재보험, 건물주 보험이 보는 것과 치과가 챙길 인테리어·유니트체어·촬영 장비·리스 장비를 비교하고 개원·이전 때 확인 순서를 정리했습니다.
+- [요양병원보험](https://hospital.yangsimlab.com/columns/nursing-hospital/): 요양병원보험, 거동이 어려운 환자의 대피와 야간 인력, 강화된 스프링클러 기준, 환자·보호자 배상을 화재 발생부터 보상까지 시간 순서로 정리했습니다.
+- [병원배상책임보험](https://hospital.yangsimlab.com/columns/hospital-liability/): 병원배상책임보험, 복도 낙상·엘리베이터와 자동문·주차 설비·급식 식중독 같은 시설·운영 사고와 의료행위 사고의 차이를 사례로 정리했습니다.
+- [의사배상책임보험](https://hospital.yangsimlab.com/columns/doctor-liability/): 의사배상책임보험, 의료과오 배상의 범위와 한국의료분쟁조정중재원 조정 절차를 의사들이 자주 묻는 질문으로 정리했습니다.
+- [병원화재보험](https://hospital.yangsimlab.com/columns/hospital-fire/): 병원화재보험, 건물·의료장비·의약품·인테리어 목적물과 소유·임차 병원의 차이, 연면적 3천㎡ 이상 병원급 의료기관 건물의 특수건물 화재보험 의무가입을 표로 정리했습니다.
+- [병원책임보험](https://hospital.yangsimlab.com/columns/hospital-responsibility/): 병원책임보험, 화재로 이웃·임대인에게 지는 책임부터 시설 배상, 의료과오, 개인정보 유출, 계약상 책임까지 어느 보험이 맡는지 다섯 걸음으로 연결했습니다.
+
+## 지역별 안내
+- [종로구병원화재보험](https://hospital.yangsimlab.com/region/jongno-gu/): 종합병원 네 곳과 반세기 넘은 약국거리가 함께 있는 도심, 오래된 건물 속 의원이 많은 종로
+- [중구병원화재보험](https://hospital.yangsimlab.com/region/jung-gu/): 외국인 환자가 몰리는 명동 피부과와 오피스 빌딩 부속의원이 서울에서 가장 많은 도심
+- [용산구병원화재보험](https://hospital.yangsimlab.com/region/yongsan-gu/): 외국인 주민이 찾는 이태원·한남 의원과 용도를 바꾼 상가가 많은, 도심권에서 의료기관 수가 가장 적은 구
+- [성동구병원화재보험](https://hospital.yangsimlab.com/region/seongdong-gu/): 성수동 지식산업센터와 왕십리 환승역 빌딩에 들어선 직장인 상대 의원이 많은 성동구
+- [광진구병원화재보험](https://hospital.yangsimlab.com/region/gwangjin-gu/): 건대입구 먹자골목과 로데오 상권, 음식점·주점과 한 건물을 쓰는 의원이 많은 광진구
+- [동대문구병원화재보험](https://hospital.yangsimlab.com/region/dongdaemun-gu/): 서울약령시 한의원과 약재상, 정신병원·중소병원이 함께 있는 동대문구
+- [중랑구병원화재보험](https://hospital.yangsimlab.com/region/jungnang-gu/): 병원급 의료기관이 동북권에서 가장 많고 면목동 노후 주거지가 넓게 퍼진 중랑구
+- [성북구병원화재보험](https://hospital.yangsimlab.com/region/seongbuk-gu/): 요양병원 수 서울 2위, 대학 7~8곳이 모인 대학도시 성북구
+- [강북구병원화재보험](https://hospital.yangsimlab.com/region/gangbuk-gu/): 미아사거리·수유역 번화가 상가 빌딩 의원과 요양병원이 함께 있는 강북구
+- [도봉구병원화재보험](https://hospital.yangsimlab.com/region/dobong-gu/): 의원은 적고 요양·정신·한방병원 비중이 큰 입원형 의료 지역, 창동 개발이 진행 중인 도봉구
+- [노원구병원화재보험](https://hospital.yangsimlab.com/region/nowon-gu/): 요양기관 999곳으로 동북권에서 가장 많고, 학원가·아파트 상가에 소아청소년과와 치과가 모인 노원구
+- [은평구병원화재보험](https://hospital.yangsimlab.com/region/eunpyeong-gu/): 역세권 상가 의원과 입원실을 둔 중소병원, 요양·공공 병상이 함께 있는 서북권 주거지
+- [서대문구병원화재보험](https://hospital.yangsimlab.com/region/seodaemun-gu/): 병상의 3분의 2 가까이가 종합병원에 몰린 대학가, 대형병원 주변 외래 의원이 많은 신촌 생활권
+- [마포구병원화재보험](https://hospital.yangsimlab.com/region/mapo-gu/): 서울에서 유일하게 종합병원이 없는 구, 홍대 피부과와 공덕 생활 의원이 의료를 떠받치는 마포
+- [양천구병원화재보험](https://hospital.yangsimlab.com/region/yangcheon-gu/): 학원가·대단지 옆에서 12년 넘게 운영한 의원이 많은 목동, 설비 노후와 단골 가족 환자를 함께 보는 양천구
+- [강서구병원화재보험](https://hospital.yangsimlab.com/region/gangseo-gu/): 척추·관절 병원급이 모인 의료관광특구, 신축 메디컬빌딩의 마곡과 생활형 의원의 화곡이 함께 있는 서울 강서구
+- [구로구병원화재보험](https://hospital.yangsimlab.com/region/guro-gu/): 1천 병상 넘는 상급종합병원 주변 의원과 외국인 주민 비율 높은 골목 의원이 공존하는 구로구
+- [금천구병원화재보험](https://hospital.yangsimlab.com/region/geumcheon-gu/): 14만 명이 일하는 가산 G밸리 직장인 의원과 입원실 있는 독산·시흥 중소 병원이 함께 있는 금천구
+- [영등포구병원화재보험](https://hospital.yangsimlab.com/region/yeongdeungpo-gu/): 직장인 비중 높은 여의도 고층 빌딩 의원과 유입 인구 많은 영등포역 역세권 의원, 두 얼굴의 영등포구
+- [동작구병원화재보험](https://hospital.yangsimlab.com/region/dongjak-gu/): 상급종합병원과 시립 공공병원 두 곳을 축으로 노량진·사당·상도 동네 의원이 이어진 동작구
+- [관악구병원화재보험](https://hospital.yangsimlab.com/region/gwanak-gu/): 1인 가구 비율 서울 1위, 원룸 골목 속 저층 상가 의원과 야간 진료가 많은 관악구
+- [서초구병원화재보험](https://hospital.yangsimlab.com/region/seocho-gu/): 법조타운 오피스 상권과 교대·양재 생활 상권, 병원급 의료기관 14곳이 함께 있는 서초
+- [강남구병원화재보험](https://hospital.yangsimlab.com/region/gangnam-gu/): 성형외과·피부과가 빌딩에 층층이 모인, 서울 의원 다섯 곳 중 한 곳이 있는 강남
+- [송파구병원화재보험](https://hospital.yangsimlab.com/region/songpa-gu/): 요양병원 8곳과 병원 23곳이 입원 병상을 받치는, 대단지 주거와 문정 업무단지가 함께 있는 송파
+- [강동구병원화재보험](https://hospital.yangsimlab.com/region/gangdong-gu/): 한방병원 10곳으로 서울에서 가장 많고, 대형 요양병원이 입원 병상을 받치는 동남권 주거지
+- [수원병원화재보험](https://hospital.yangsimlab.com/region/suwon/): 대형병원 주변 문전 상권과 인계동 복합건물 의원, 부대시설 주방 화재까지 보는 수원
+- [고양병원화재보험](https://hospital.yangsimlab.com/region/goyang/): 30년 넘은 일산 신도시 상가 의원과 분만·입원 병상이 함께 있는 고양
+- [용인병원화재보험](https://hospital.yangsimlab.com/region/yongin/): 수지·기흥의 단지 상가 의원과 처인구 복합건축물 속 요양시설이 공존하는 용인
+- [화성병원화재보험](https://hospital.yangsimlab.com/region/hwaseong/): 새벽 대기줄이 생기는 동탄 상가 소아과와 병점 복합건물 요양병원이 함께 있는 화성
+- [성남병원화재보험](https://hospital.yangsimlab.com/region/seongnam/): 병원이 몰린 분당·판교 메디컬빌딩과 노후 건물이 많은 원도심이 대비되는 성남
+- [부천병원화재보험](https://hospital.yangsimlab.com/region/bucheon/): 인구 밀도가 높아 건물이 촘촘한 부천, 중층 의료건물 입원 환자와 천장 속 배선을 보는 곳
+- [남양주병원화재보험](https://hospital.yangsimlab.com/region/namyangju/): 상급종합병원 없이 다산·별내 주상복합 상가 의원이 생활 의료를 떠받치는 남양주
+- [안산병원화재보험](https://hospital.yangsimlab.com/region/ansan/): 외국인 주민 비율이 전국에서 가장 높고 산단 근로자의 외상·재활 진료가 많은 안산 의료기관
+- [평택병원화재보험](https://hospital.yangsimlab.com/region/pyeongtaek/): 고덕신도시 신축 메디컬 빌딩 개원과 팽성 미군기지 주변 외국인 진료가 공존하는 평택
+- [안양병원화재보험](https://hospital.yangsimlab.com/region/anyang/): 평촌 학원가 소아·치과 의원과 범계역 의원 밀집, 만안구 입원 병원까지 섞인 안양
+- [시흥병원화재보험](https://hospital.yangsimlab.com/region/siheung/): 800병상 대학병원 건립을 기다리는 배곧신도시와 시화산단 배후 정왕동의 동네 의원
+- [파주병원화재보험](https://hospital.yangsimlab.com/region/paju/): 종합병원 없이 상가 의원이 진료를 떠맡아 온 운정신도시, 공장과 이웃한 외곽 병원의 파주
+- [김포병원화재보험](https://hospital.yangsimlab.com/region/gimpo/): 근린상가 층을 빌린 요양병원과 한강신도시 한의원이 많은 김포, 2019년 병원 화재의 교훈
+- [인천병원화재보험](https://hospital.yangsimlab.com/region/incheon/): 행정체제 개편으로 2군 9구가 된 인천, 구도심·섬·신도시마다 병원 환경이 다른 광역시
+
+## 상담
+- 전화: 010-8284-6593
+- 카카오채널: https://pf.kakao.com/_xcxdyWxd
+- 유튜브: https://www.youtube.com/@yangsimbohum
+- 사무실: 서울 강남구 테헤란로25길 20 역삼현대벤처텔 1406호 / 경기 고양시 일산동구 호수로 646-24 노블소호비즈 22호
+
+## 안내
+- 보험 가입 가능 여부와 보장 내용은 보험사 인수 기준과 약관, 병원 현황에 따라 달라질 수 있습니다.
+- 보험대리점 지에이코리아(주) 대리점 등록번호 2009098136
+
+## 사이트맵
+- https://hospital.yangsimlab.com/sitemap.xml
+- https://hospital.yangsimlab.com/rss.xml
+- https://hospital.yangsimlab.com/llms-full.txt: 모든 페이지 본문 전문
