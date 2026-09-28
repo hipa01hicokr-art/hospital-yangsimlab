@@ -19,6 +19,9 @@
 - [의사배상책임보험](https://hospital.yangsimlab.com/columns/doctor-liability/): 의사배상책임보험, 의료과오 배상의 범위와 한국의료분쟁조정중재원 조정 절차를 의사들이 자주 묻는 질문으로 정리했습니다.
 - [병원화재보험](https://hospital.yangsimlab.com/columns/hospital-fire/): 병원화재보험, 건물·의료장비·의약품·인테리어 목적물과 소유·임차 병원의 차이, 연면적 3천㎡ 이상 병원급 의료기관 건물의 특수건물 화재보험 의무가입을 표로 정리했습니다.
 - [병원책임보험](https://hospital.yangsimlab.com/columns/hospital-responsibility/): 병원책임보험, 화재로 이웃·임대인에게 지는 책임부터 시설 배상, 의료과오, 개인정보 유출, 계약상 책임까지 어느 보험이 맡는지 다섯 걸음으로 연결했습니다.
+- [요양원화재보험](https://hospital.yangsimlab.com/columns/nursing-home-fire/): 요양원화재보험, 세탁실·주방·생활실 불씨와 요양병원과의 차이, 스프링클러 기준, 이웃·임대인 배상까지 정리했습니다. 우리 시설 도면에 대입해 보세요.
+- [요양원배상책임보험](https://hospital.yangsimlab.com/columns/nursing-home-liability/): 요양원배상책임보험, 낙상·욕창·질식·투약 실수·배회 같은 돌봄 사고와 화재 배상의 차이, 법정 가입 의무와 보호자 분쟁 대응을 정리했어요. 입소자 명단부터 확인해 보세요.
+- [주간보호센터화재보험](https://hospital.yangsimlab.com/columns/day-care-center-fire/): 주간보호센터화재보험, 상가 임차 구조와 낮 시간 동시 대피, 밤에 빈 센터의 화재, 송영 차량의 경계를 짚었습니다. 개설·이전 전 다섯 단계로 점검해 보세요.
 
 ## 지역별 안내
 - [종로구병원화재보험](https://hospital.yangsimlab.com/region/jongno-gu/): 종합병원 네 곳과 반세기 넘은 약국거리가 함께 있는 도심, 오래된 건물 속 의원이 많은 종로

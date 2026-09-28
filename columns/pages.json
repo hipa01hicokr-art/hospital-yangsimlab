@@ -30,5 +30,17 @@
  {
   "title": "병원책임보험",
   "slug": "hospital-responsibility"
+ },
+ {
+  "title": "요양원화재보험",
+  "slug": "nursing-home-fire"
+ },
+ {
+  "title": "요양원배상책임보험",
+  "slug": "nursing-home-liability"
+ },
+ {
+  "title": "주간보호센터화재보험",
+  "slug": "day-care-center-fire"
  }
 ]
