@@ -1,13 +1,13 @@
 # 양심보험연구소 병원화재보험 (hospital.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://hospital.yangsimlab.com/llms.txt 를 보세요. (2026-09-28 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://hospital.yangsimlab.com/llms.txt 를 보세요. (2026-09-30 기준)
 
 ---
 
 ## 병원화재보험은 양심보험연구소가 잘 압니다
 
 URL: https://hospital.yangsimlab.com/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 병원화재보험, 병원 건물과 의료장비, 인테리어, 시설·의료 배상책임, 휴진 손실까지 22년 화재보험 전문가 노영규가 병원에 맞게 설계합니다. 전화·카카오채널로 상담하세요.
 
 전문성
@@ -191,7 +191,7 @@ THE e-STATION 화재보험 칼럼
 ## 병원화재보험 칼럼
 
 URL: https://hospital.yangsimlab.com/columns/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 위험관리전문가 노영규가 병원화재보험, 병원배상책임보험, 의사배상책임보험, 요양병원보험, 한의원·치과 화재보험까지 병원 운영에 필요한 보험을 키워드별로 정리한 칼럼 모음입니다.
 
 위험관리전문가 노영규의 칼럼
@@ -223,7 +223,7 @@ URL: https://hospital.yangsimlab.com/columns/
 ## 병원보험
 
 URL: https://hospital.yangsimlab.com/columns/hospital-insurance/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 병원보험, 한 가지 상품이 아니라 화재·재산, 시설 배상, 의료과오 배상, 휴진 손실, 직원 관련 위험을 묶는 조합입니다. 우리 병원 빈칸을 점검해 보세요.
 
 전문가 칼럼 · 위험 지도
@@ -272,7 +272,7 @@ URL: https://hospital.yangsimlab.com/columns/hospital-insurance/
 ## 한의원화재보험
 
 URL: https://hospital.yangsimlab.com/columns/oriental-clinic-fire/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 한의원화재보험, 뜸·온열기·적외선 치료기·약재 보관·탕전실 같은 한의원 특유의 화재 원인과 상가 임차 구조에서 볼 점을 표로 정리했습니다.
 
 전문가 칼럼 · 한의원
@@ -318,7 +318,7 @@ URL: https://hospital.yangsimlab.com/columns/oriental-clinic-fire/
 ## 치과화재보험
 
 URL: https://hospital.yangsimlab.com/columns/dental-clinic-fire/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 치과화재보험, 건물주 보험이 보는 것과 치과가 챙길 인테리어·유니트체어·촬영 장비·리스 장비를 비교하고 개원·이전 때 확인 순서를 정리했습니다.
 
 전문가 칼럼 · 치과
@@ -372,7 +372,7 @@ URL: https://hospital.yangsimlab.com/columns/dental-clinic-fire/
 ## 요양병원보험
 
 URL: https://hospital.yangsimlab.com/columns/nursing-hospital/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 요양병원보험, 거동이 어려운 환자의 대피와 야간 인력, 강화된 스프링클러 기준, 환자·보호자 배상을 화재 발생부터 보상까지 시간 순서로 정리했습니다.
 
 전문가 칼럼 · 요양병원
@@ -425,7 +425,7 @@ URL: https://hospital.yangsimlab.com/columns/nursing-hospital/
 ## 병원배상책임보험
 
 URL: https://hospital.yangsimlab.com/columns/hospital-liability/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 병원배상책임보험, 복도 낙상·엘리베이터와 자동문·주차 설비·급식 식중독 같은 시설·운영 사고와 의료행위 사고의 차이를 사례로 정리했습니다. 배상 범위 점검을 문의하세요.
 
 전문가 칼럼 · 시설 배상
@@ -480,7 +480,7 @@ URL: https://hospital.yangsimlab.com/columns/hospital-liability/
 ## 의사배상책임보험
 
 URL: https://hospital.yangsimlab.com/columns/doctor-liability/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 의사배상책임보험, 의료과오 배상의 범위와 한국의료분쟁조정중재원 조정 절차를 의사들이 자주 묻는 질문으로 정리했습니다. 상담을 받아보세요.
 
 전문가 칼럼 · 의료과오
@@ -529,7 +529,7 @@ URL: https://hospital.yangsimlab.com/columns/doctor-liability/
 ## 병원화재보험
 
 URL: https://hospital.yangsimlab.com/columns/hospital-fire/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 병원화재보험, 건물·의료장비·의약품·인테리어 목적물과 소유·임차 병원의 차이, 연면적 3천㎡ 이상 병원급 의료기관 건물의 특수건물 화재보험 의무가입을 표로 정리했습니다.
 
 전문가 칼럼 · 화재
@@ -580,7 +580,7 @@ URL: https://hospital.yangsimlab.com/columns/hospital-fire/
 ## 병원책임보험
 
 URL: https://hospital.yangsimlab.com/columns/hospital-responsibility/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 병원책임보험, 화재로 이웃·임대인에게 지는 책임부터 시설 배상, 의료과오, 개인정보 유출, 계약상 책임까지 어느 보험이 맡는지 다섯 걸음으로 연결했습니다. 책임 점검을 문의하세요.
 
 전문가 칼럼 · 책임 지도
@@ -631,7 +631,7 @@ URL: https://hospital.yangsimlab.com/columns/hospital-responsibility/
 ## 요양원화재보험
 
 URL: https://hospital.yangsimlab.com/columns/nursing-home-fire/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 요양원화재보험, 세탁실·주방·생활실 불씨와 요양병원과의 차이, 스프링클러 기준, 이웃·임대인 배상까지 정리했습니다. 우리 시설 도면에 대입해 보세요.
 
 전문가 칼럼 · 요양원
@@ -677,7 +677,7 @@ URL: https://hospital.yangsimlab.com/columns/nursing-home-fire/
 ## 요양원배상책임보험
 
 URL: https://hospital.yangsimlab.com/columns/nursing-home-liability/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 요양원배상책임보험, 낙상·욕창·질식·투약 실수·배회 같은 돌봄 사고와 화재 배상의 차이, 법정 가입 의무와 보호자 분쟁 대응을 정리했어요. 입소자 명단부터 확인해 보세요.
 
 전문가 칼럼 · 돌봄 배상
@@ -734,7 +734,7 @@ CCTV 영상은 어떻게 챙겨야 하나요?
 ## 주간보호센터화재보험
 
 URL: https://hospital.yangsimlab.com/columns/day-care-center-fire/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 주간보호센터화재보험, 상가 임차 구조와 낮 시간 동시 대피, 밤에 빈 센터의 화재, 송영 차량의 경계를 짚었습니다. 개설·이전 전 다섯 단계로 점검해 보세요.
 
 전문가 칼럼 · 주간보호
@@ -786,7 +786,7 @@ URL: https://hospital.yangsimlab.com/columns/day-care-center-fire/
 ## 지역별 병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 서울 25개 구와 수원·고양·용인·성남 등 수도권 대도시별로 의료기관 분포와 병원 건물의 특징에 맞춰 병원화재보험을 안내합니다. 우리 지역 점검 포인트를 확인하세요.
 
 서울 구별·수도권 대도시 안내
@@ -887,7 +887,7 @@ URL: https://hospital.yangsimlab.com/region/
 ## 종로구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/jongno-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 종로구병원화재보험, 대형병원 주변 의원과 종로5가 일대 오래된 건물 속 한의원·클리닉의 화재 위험을 정리했습니다. 건물 연식부터 함께 확인해 보세요.
 
 서울 종로구 · 연건동·종로5가·평동
@@ -955,7 +955,7 @@ URL: https://hospital.yangsimlab.com/region/jongno-gu/
 ## 중구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/jung-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 중구병원화재보험, 서울 중구 명동 피부과와 을지로 오피스 빌딩 속 의원·부속의원의 화재 위험을 정리했습니다. 외국인 환자가 많다면 상담을 받아 보세요.
 
 서울 중구 · 명동·을지로·충무로
@@ -1023,7 +1023,7 @@ URL: https://hospital.yangsimlab.com/region/jung-gu/
 ## 용산구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/yongsan-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 용산구병원화재보험, 이태원·한남동 외국인 대상 의원과 음식점·카페를 고쳐 연 진료실의 화재 위험을 정리했습니다. 공간의 이전 용도가 걸린다면 문의하세요.
 
 서울 용산구 · 이태원·한남·한강로
@@ -1092,7 +1092,7 @@ URL: https://hospital.yangsimlab.com/region/yongsan-gu/
 ## 성동구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/seongdong-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 성동구병원화재보험, 성수동 지식산업센터와 왕십리 역세권 빌딩에 입주한 의원의 화재 위험과 관리단 규약까지 정리했습니다. 성동구 병의원 상담을 신청하세요.
 
 서울 성동구 · 성수동·왕십리·행당동
@@ -1160,7 +1160,7 @@ URL: https://hospital.yangsimlab.com/region/seongdong-gu/
 ## 광진구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gwangjin-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 광진구병원화재보험, 건대입구 대학가 상권에서 음식점·주점과 건물을 함께 쓰는 의원과 치과의 화재 위험을 정리했습니다. 광진구 병의원 상담을 받아 보세요.
 
 서울 광진구 · 화양동·자양동·구의동
@@ -1228,7 +1228,7 @@ URL: https://hospital.yangsimlab.com/region/gwangjin-gu/
 ## 동대문구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/dongdaemun-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 동대문구병원화재보험, 제기동 서울약령시 한의원의 뜸·탕전·약재 보관 위험과 시장 속 노후 건물을 함께 정리했습니다. 동대문구 한의원·병원 상담을 신청하세요.
 
 서울 동대문구 · 제기동 약령시·회기동·청량리
@@ -1297,7 +1297,7 @@ URL: https://hospital.yangsimlab.com/region/dongdaemun-gu/
 ## 중랑구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/jungnang-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 중랑구병원화재보험, 입원 병상을 둔 중소병원과 면목동 노후 골목 속 의원의 화재 위험, 소방차 진입 문제까지 정리했습니다. 중랑구 병원 상담을 받아 보세요.
 
 서울 중랑구 · 면목동·상봉동·신내동
@@ -1365,7 +1365,7 @@ URL: https://hospital.yangsimlab.com/region/jungnang-gu/
 ## 성북구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/seongbuk-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 성북구병원화재보험, 서울에서 두 번째로 많은 요양병원과 대학가 의원의 화재 위험, 와상 환자 대피까지 정리했습니다. 성북구 요양병원·의원 상담을 신청하세요.
 
 서울 성북구 · 안암동·돈암동·정릉동
@@ -1432,7 +1432,7 @@ URL: https://hospital.yangsimlab.com/region/seongbuk-gu/
 ## 강북구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gangbuk-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 강북구병원화재보험, 미아사거리·수유역 상가 빌딩 의원과 요양병원의 화재 위험, 흡연과 창고 관리까지 정리했습니다. 강북구 병의원 상담을 받아 보세요.
 
 서울 강북구 · 미아사거리·수유역·번동
@@ -1500,7 +1500,7 @@ URL: https://hospital.yangsimlab.com/region/gangbuk-gu/
 ## 도봉구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/dobong-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 도봉구병원화재보험, 요양병원·정신병원·한방병원 같은 입원형 기관과 창동 개발지 신축 의원의 화재 위험을 정리했습니다. 도봉구 병원 상담을 신청하세요.
 
 서울 도봉구 · 창동·쌍문동·방학동
@@ -1567,7 +1567,7 @@ URL: https://hospital.yangsimlab.com/region/dobong-gu/
 ## 노원구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/nowon-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 노원구병원화재보험, 중계동 학원가와 상계동 아파트 상가에 모인 소아청소년과·치과 의원의 화재 위험을 정리했습니다. 노원구 병의원 상담을 받아 보세요.
 
 서울 노원구 · 중계동 은행사거리·상계동·하계동
@@ -1635,7 +1635,7 @@ URL: https://hospital.yangsimlab.com/region/nowon-gu/
 ## 은평구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/eunpyeong-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 은평구병원화재보험, 연신내·불광 역세권 의원과 입원실 있는 중소병원, 은평뉴타운 상가 의원의 화재 위험을 정리했습니다. 병상 유무부터 상담받아 보세요.
 
 서울 은평구 · 연신내·불광·진관동
@@ -1703,7 +1703,7 @@ URL: https://hospital.yangsimlab.com/region/eunpyeong-gu/
 ## 서대문구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/seodaemun-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 서대문구병원화재보험, 신촌 대학병원 주변 의원과 대학가 상가 클리닉, 홍제·가좌 동네 의원의 화재 위험을 정리했습니다. 큰 병원 옆 개원이라면 상담하세요.
 
 서울 서대문구 · 신촌·연희·홍제
@@ -1772,7 +1772,7 @@ URL: https://hospital.yangsimlab.com/region/seodaemun-gu/
 ## 마포구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/mapo-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 마포구병원화재보험, 종합병원이 없는 마포의 홍대 피부과 밀집 상권과 공덕 주거지 의원의 화재 위험을 정리했습니다. 휴진 손실이 걱정되면 상담하세요.
 
 서울 마포구 · 홍대입구·공덕·상암
@@ -1840,7 +1840,7 @@ URL: https://hospital.yangsimlab.com/region/mapo-gu/
 ## 양천구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/yangcheon-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 양천구병원화재보험, 목동 학원가와 아파트 단지 곁에서 오래 운영한 의원의 설비 노후와 입원실 화재 위험을 정리했습니다. 양천구 병원 상담을 신청하세요.
 
 서울 양천구 · 목동 학원가·아파트 단지
@@ -1907,7 +1907,7 @@ URL: https://hospital.yangsimlab.com/region/yangcheon-gu/
 ## 강서구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gangseo-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 강서구병원화재보험, 서울 강서구 의료관광특구의 척추·관절 병원과 마곡 신축 메디컬빌딩, 화곡동 생활형 의원의 화재 위험을 정리했습니다. 상담을 신청하세요.
 
 서울 강서구 · 마곡지구·화곡동·의료관광특구
@@ -1973,7 +1973,7 @@ URL: https://hospital.yangsimlab.com/region/gangseo-gu/
 ## 구로구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/guro-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 구로구병원화재보험, 구로동 상급종합병원 주변 의원과 외국인 주민이 많은 가리봉·구로 골목 의원의 화재 위험을 정리했습니다. 구로구 병원 상담을 문의하세요.
 
 서울 구로구 · 구로동 대학병원 주변·가리봉동
@@ -2039,7 +2039,7 @@ URL: https://hospital.yangsimlab.com/region/guro-gu/
 ## 금천구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/geumcheon-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 금천구병원화재보험, 가산디지털단지 직장인 대상 의원과 독산·시흥동 입원 병원의 화재 위험을 짚었습니다. 금천구 병원 화재 대비를 상담으로 시작하세요.
 
 서울 금천구 · 가산디지털단지·독산동·시흥동
@@ -2105,7 +2105,7 @@ G밸리 전체에는 1만 2천여 개 기업과 14만여 명의 종사자가 있
 ## 영등포구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/yeongdeungpo-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 영등포구병원화재보험, 여의도 오피스 빌딩 의원과 영등포역 역세권 복합상가 의원의 서로 다른 화재 위험을 비교했습니다. 영등포구 병원 상담을 받아 보세요.
 
 서울 영등포구 · 여의도 오피스·영등포역 역세권
@@ -2171,7 +2171,7 @@ URL: https://hospital.yangsimlab.com/region/yeongdeungpo-gu/
 ## 동작구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/dongjak-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 동작구병원화재보험, 흑석동·신대방동 두 대형병원 주변 의원과 노량진·사당 역세권 의원의 화재 위험을 정리했습니다. 동작구 병원 상담은 전화로 문의하세요.
 
 서울 동작구 · 흑석동·신대방동 대형병원 권역
@@ -2237,7 +2237,7 @@ URL: https://hospital.yangsimlab.com/region/dongjak-gu/
 ## 관악구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gwanak-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 관악구병원화재보험, 1인 가구가 많은 신림·서울대입구 원룸 골목 상가 의원의 야간 진료와 이웃 배상 위험을 정리했습니다. 관악구 병원 상담을 신청하세요.
 
 서울 관악구 · 신림·서울대입구 1인 가구 밀집지
@@ -2303,7 +2303,7 @@ URL: https://hospital.yangsimlab.com/region/gwanak-gu/
 ## 서초구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/seocho-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 서초구병원화재보험, 법조타운 서초역·교대역 오피스 의원과 양재역 피부과, 입원실 있는 병원급 의료기관의 화재 위험을 정리했습니다. 상권에 맞춰 상담하세요.
 
 서울 서초구 · 교대·서초역·양재
@@ -2371,7 +2371,7 @@ URL: https://hospital.yangsimlab.com/region/seocho-gu/
 ## 강남구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gangnam-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 강남구병원화재보험, 신사·논현 성형외과 수술실과 빌딩 속 피부과, 치과의 화재 위험을 정리했습니다. 마취 환자가 있는 의원이라면 상담을 받아 보세요.
 
 서울 강남구 · 신사·논현·역삼·압구정
@@ -2442,7 +2442,7 @@ URL: https://hospital.yangsimlab.com/region/gangnam-gu/
 ## 송파구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/songpa-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 송파구병원화재보험, 풍납동 병원가와 잠실 대단지 상가 의원, 문정동 지식산업센터 의원, 요양병원의 화재 위험을 정리했습니다. 병상이 있다면 상담하세요.
 
 서울 송파구 · 풍납·잠실·문정·가락
@@ -2511,7 +2511,7 @@ URL: https://hospital.yangsimlab.com/region/songpa-gu/
 ## 강동구병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gangdong-gu/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 강동구병원화재보험, 서울에서 가장 많은 강동 한방병원과 대형 요양병원, 천호·길동 역세권 의원의 화재 위험을 정리했습니다. 입원실 있는 한방병원이라면 상담하세요.
 
 서울 강동구 · 천호·길동·상일·고덕
@@ -2580,7 +2580,7 @@ URL: https://hospital.yangsimlab.com/region/gangdong-gu/
 ## 수원병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/suwon/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 수원병원화재보험, 영통 대형병원 주변 문전 의원과 인계동 복합건물 의원의 화재 위험을 정리했습니다. 수원 병의원 상담을 신청해 보세요.
 
 경기 수원 · 원천·인계·광교
@@ -2647,7 +2647,7 @@ CT와 초음파처럼 값비싼 장비는 연기와 그을음만으로도 고장
 ## 고양병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/goyang/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 고양병원화재보험, 일산 1기 신도시 노후 상가 의원과 분만·입원 병상의 대피 위험을 정리했습니다. 고양 병의원 화재보험 상담을 받아 보세요.
 
 경기 고양 · 일산 신도시·식사·화정
@@ -2715,7 +2715,7 @@ URL: https://hospital.yangsimlab.com/region/goyang/
 ## 용인병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/yongin/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 용인병원화재보험, 수지·기흥 단지 상가 의원과 처인구 복합건축물 요양시설의 화재 위험을 구별로 정리했습니다. 용인 병의원 상담을 요청하세요.
 
 경기 용인 · 수지·기흥·처인
@@ -2782,7 +2782,7 @@ URL: https://hospital.yangsimlab.com/region/yongin/
 ## 화성병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/hwaseong/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 화성병원화재보험, 동탄 신도시 상가 소아과·치과의 붐비는 대기실과 병점 복합건물 요양병원의 화재 위험을 담았습니다. 화성 병의원 상담을 시작해 보세요.
 
 경기 화성 · 동탄 신도시·병점·봉담
@@ -2850,7 +2850,7 @@ URL: https://hospital.yangsimlab.com/region/hwaseong/
 ## 성남병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/seongnam/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 성남병원화재보험, 분당·판교 다층 메디컬빌딩과 수정·중원 원도심 노후 건물 의원의 화재 위험을 비교했습니다. 성남 병의원 상담을 신청하세요.
 
 경기 성남 · 분당·판교·원도심
@@ -2917,7 +2917,7 @@ MRI와 수술 장비는 연기 피해만으로도 교체가 필요할 수 있어
 ## 부천병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/bucheon/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 부천병원화재보험, 촘촘한 도심 속 중층 의료건물과 중동·상동 상가 의원의 화재 위험을 정리했습니다. 부천 병의원 화재보험 상담을 받아 보세요.
 
 경기 부천 · 중동·상동·심곡·원종
@@ -2985,7 +2985,7 @@ URL: https://hospital.yangsimlab.com/region/bucheon/
 ## 남양주병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/namyangju/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 남양주병원화재보험, 다산·별내 주상복합 상가 의원과 외곽 요양시설의 화재 위험을 정리했습니다. 남양주 병의원 화재보험 상담을 문의하세요.
 
 경기 남양주 · 다산·별내·진접·평내호평
@@ -3054,7 +3054,7 @@ URL: https://hospital.yangsimlab.com/region/namyangju/
 ## 안산병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/ansan/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 안산병원화재보험, 원곡동 다국어 상권의 의원과 반월·시화 산단 근로자를 진료하는 정형외과·재활 병원의 화재 위험을 정리했습니다. 상담을 신청하세요.
 
 경기 안산 · 원곡동·고잔동·반월산단 인근
@@ -3122,7 +3122,7 @@ URL: https://hospital.yangsimlab.com/region/ansan/
 ## 평택병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/pyeongtaek/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 평택병원화재보험, 고덕신도시 신축 메디컬 빌딩의 개원 의원과 평택역·팽성 구도심 병원의 화재 위험을 나눠 정리했습니다. 평택 병원 상담을 문의하세요.
 
 경기 평택 · 고덕국제신도시·평택역·팽성
@@ -3188,7 +3188,7 @@ URL: https://hospital.yangsimlab.com/region/pyeongtaek/
 ## 안양병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/anyang/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 안양병원화재보험, 평촌 학원가 소아청소년과·치과와 범계역 의원 밀집 건물, 만안구 입원 병원의 화재 위험을 나눠 정리했습니다. 안양 상담을 요청하세요.
 
 경기 안양 · 평촌 학원가·범계역·만안구 구도심
@@ -3257,7 +3257,7 @@ URL: https://hospital.yangsimlab.com/region/anyang/
 ## 시흥병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/siheung/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 시흥병원화재보험, 대학병원 건립을 기다리는 배곧신도시 상가 의원과 시화산단 배후 정왕동 병원의 화재 위험을 정리했습니다. 시흥 상담을 신청하세요.
 
 경기 시흥 · 배곧신도시·정왕동·은계
@@ -3324,7 +3324,7 @@ URL: https://hospital.yangsimlab.com/region/siheung/
 ## 파주병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/paju/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 파주병원화재보험, 종합병원이 없던 운정신도시 상가 의원과 공장 가까운 탄현·외곽 병원의 화재 위험을 정리했습니다. 파주 병원 상담을 받아 보세요.
 
 경기 파주 · 운정신도시·금촌·탄현
@@ -3393,7 +3393,7 @@ URL: https://hospital.yangsimlab.com/region/paju/
 ## 김포병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/gimpo/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 김포병원화재보험, 상가 층을 빌려 쓰는 요양병원과 한강신도시 한의원·의원의 화재 위험을 2019년 풍무동 사례와 함께 정리했습니다. 상담을 신청하세요.
 
 경기 김포 · 한강신도시 장기동·구래동·풍무동
@@ -3461,7 +3461,7 @@ URL: https://hospital.yangsimlab.com/region/gimpo/
 ## 인천병원화재보험
 
 URL: https://hospital.yangsimlab.com/region/incheon/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 인천병원화재보험, 개편된 제물포구·영종구·서해구·검단구와 계양·부평·남동의 병원 환경별 화재 위험을 나눠 정리했습니다. 인천 병원 상담을 신청하세요.
 
 인천광역시 · 제물포구·영종구·서해구·검단구 등 2군 9구
@@ -3530,7 +3530,7 @@ URL: https://hospital.yangsimlab.com/region/incheon/
 ## 화재보험 전문가 노영규
 
 URL: https://hospital.yangsimlab.com/about/
-수정일: 2026-09-28
+수정일: 2026-09-30
 요약: 양심보험연구소 노영규 대표는 22년 경력의 손해보험 설계사로 병원화재보험과 병원 배상책임 등 사업장 위험관리를 전문으로 합니다. 등록번호와 저서, 칼럼 이력을 확인하세요.
 
 양심보험연구소 대표
