@@ -62,5 +62,13 @@
  {
   "title": "한방병원보험",
   "slug": "oriental-hospital-insurance"
+ },
+ {
+  "title": "동물병원화재보험",
+  "slug": "animal-hospital-fire"
+ },
+ {
+  "title": "산후조리원화재보험",
+  "slug": "postpartum-care-fire"
  }
 ]
