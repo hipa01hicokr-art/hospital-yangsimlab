@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://hospital.yangsimlab.com/</loc><lastmod>2026-11-14</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/home.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/home-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/home-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/home-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/home-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/home-5.jpg</image:loc></image:image></url>
-  <url><loc>https://hospital.yangsimlab.com/columns/</loc><lastmod>2026-11-14</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/columns/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/columns.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
@@ -21,14 +21,14 @@
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-insurance-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-insurance-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-insurance-5.jpg</image:loc></image:image></url>
-  <url><loc>https://hospital.yangsimlab.com/columns/oriental-clinic-fire/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/columns/oriental-clinic-fire/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/col-oriental-clinic-fire.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-oriental-clinic-fire-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-oriental-clinic-fire-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-oriental-clinic-fire-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-oriental-clinic-fire-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-oriental-clinic-fire-5.jpg</image:loc></image:image></url>
-  <url><loc>https://hospital.yangsimlab.com/columns/dental-clinic-fire/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/columns/dental-clinic-fire/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/col-dental-clinic-fire.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-dental-clinic-fire-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-dental-clinic-fire-2.jpg</image:loc></image:image>
@@ -49,7 +49,7 @@
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-liability-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-liability-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-hospital-liability-5.jpg</image:loc></image:image></url>
-  <url><loc>https://hospital.yangsimlab.com/columns/doctor-liability/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/columns/doctor-liability/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/col-doctor-liability.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-doctor-liability-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/trust/columns-doctor-liability-2.jpg</image:loc></image:image>
@@ -140,7 +140,7 @@
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-column.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-referral-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-referral-2.jpg</image:loc></image:image></url>
-  <url><loc>https://hospital.yangsimlab.com/region/</loc><lastmod>2026-10-31</lastmod>
+  <url><loc>https://hospital.yangsimlab.com/region/</loc><lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/og/region.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://hospital.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
