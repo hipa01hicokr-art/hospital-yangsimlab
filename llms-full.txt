@@ -1,6 +1,6 @@
 # 양심보험연구소 병원화재보험 (hospital.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://hospital.yangsimlab.com/llms.txt 를 보세요. (2026-11-15 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://hospital.yangsimlab.com/llms.txt 를 보세요. (2026-11-21 기준)
 
 ---
 
@@ -312,7 +312,7 @@ URL: https://hospital.yangsimlab.com/columns/
 ## 병원보험
 
 URL: https://hospital.yangsimlab.com/columns/hospital-insurance/
-수정일: 2026-10-25
+수정일: 2026-11-21
 요약: 병원보험, 한 가지 상품이 아니라 화재·재산, 시설 배상, 의료과오 배상, 휴진 손실, 직원 관련 위험을 묶는 조합입니다. 우리 병원 빈칸을 점검해 보세요.
 
 전문가 칼럼 · 위험 지도
